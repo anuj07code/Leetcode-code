@@ -9,6 +9,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/anuj07code/Leetcode-code/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuj07code/Leetcode-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anuj07code/Leetcode-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anuj07code/Leetcode-code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

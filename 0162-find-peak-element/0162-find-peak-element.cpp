@@ -14,16 +14,17 @@ public:
             }
         }
         return left;
-        // // for(int i=0;i<n-2;i++){
-        // //     // int j=i+1;
-        // //     // int k=j+1;
-        // //     if(nums[i]>nums[i+1] || nums[i+1]<nums[i+2]){
-        // //         continue;
-        // //     }
-        // //     if(nums[i]<nums[i+1] && nums[i+1]>nums[i+2]){
-        // //         return i+1;
-        // //     }
-        // // }
+       
+        // for(int i=0;i<n-2;i++){
+        //     // int j=i+1;
+        //     // int k=j+1;
+        //     if(nums[i]>nums[i+1] || nums[i+1]<nums[i+2]){
+        //         continue;
+        //     }
+        //     if(nums[i]<nums[i+1] && nums[i+1]>nums[i+2]){
+        //         return i+1;
+        //     }
+        // }
         // return 0;
     }
 };
